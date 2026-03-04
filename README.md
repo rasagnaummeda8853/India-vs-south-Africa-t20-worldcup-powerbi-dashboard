@@ -66,7 +66,7 @@ India-vs-south-Africa-t20-worldcup-powerbi-dashboard
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Screenshots/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
